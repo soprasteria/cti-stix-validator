@@ -4,3 +4,7 @@
 [submodule "stix2validator/schemas-sep"]
 	path = stix2validator/schemas-sep
 	url = https://github.com/soprasteria/cybersecurity-cti-sep-repository.git
+[submodule "stix2validator/schemas-2.0"]
+	path = stix2validator/schemas-2.0
+	url = https://github.com/oasis-open/cti-stix2-json-schemas.git
+	branch = stix2.0
